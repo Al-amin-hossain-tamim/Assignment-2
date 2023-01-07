@@ -6,17 +6,19 @@
 .banner {
   background-image: url("../images/banner/banner2.png");
   background-repeat: no-repeat;
-  padding-top: 50px;
-  padding-bottom: 350px;
+  width: 1600px;
+  height: 809px;
 }
 .head-description {
   margin: 32px 0;
 }
 .header-container {
-  text-align: right;
-  margin: 233px 231px 142px 544px;
+  align-items: center;
+  padding: 233px 231px 142px 700px;
+  text-align: end;
 }
 .head-title {
+  margin-right: 224px;
   font-weight: 700;
   font-size: 65px;
   line-height: 76px;
@@ -24,7 +26,8 @@
 }
 .head-description {
   color: #444343;
-  margin: 32px 0;
+  margin: 32px 224px 0 0;
+  margin-bottom: 32px;
 }
 .button {
   color: white;
@@ -32,21 +35,29 @@
   border: 0;
   border-radius: 5px;
   padding: 20px 25px;
+  margin-right: 224px;
 }
 /* failure section style */
 .failure {
   max-width: 1072px;
+  height: 723.3px;
   display: flex;
-  align-items: center;
   gap: 87px;
-  margin: 155px 322px 130px 206px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 155px; 
+  margin-bottom: 130px;
+  margin-left: 206px;
 }
 .picture {
+  width: 569px;
+  height: 723.3px;
 }
 .failure-description {
   line-height: 26px;
   margin-top: 24px;
   margin-bottom: 16px;
+  
 }
 .list-container li {
   list-style: none;
@@ -57,7 +68,8 @@
   margin-right: 10px;
 }
 .text {
-  margin-top: 239px;
+  margin -top:394px
+
 }
 /* plan section style */
 .plan {
