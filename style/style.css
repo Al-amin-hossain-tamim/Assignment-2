@@ -119,7 +119,8 @@
   margin-bottom: 16px;
 }
 .footer-subscribe {
-  margin: 142.3px 204px 230.7px 200px;
+  margin: 142.3px 0 230.7px 200px;
+  margin-right: 204px;
   width: 325px;
   height: 204px;
 }
@@ -135,7 +136,8 @@
   font-size: 18px;
   color: #F3F3F3;
   margin-bottom: 16px;
-  padding: 21px 185px 22px 21px;
+  margin-right: 204px;
+  padding: 21px 150px 22px 21px;
 }
 .subscribe {
   font-weight: 600;
