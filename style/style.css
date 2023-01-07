@@ -130,8 +130,9 @@
   margin-bottom: 31px;
 }
 .email {
-  background-color:#151414;
+  background: #151414;
   border:1px solid white;
+  font-size: 18px;
   color: #F3F3F3;
   margin-bottom: 16px;
   padding: 21px 185px 22px 21px;
