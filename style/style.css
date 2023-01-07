@@ -47,7 +47,6 @@
   align-items: center;
   margin-top: 155px; 
   margin-bottom: 130px;
-  margin-left: 206px;
 }
 .picture {
   width: 569px;
@@ -68,7 +67,7 @@
   margin-right: 10px;
 }
 .text {
-  margin -top:394px
+  margin -top:394px;
 
 }
 /* plan section style */
