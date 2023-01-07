@@ -33,6 +33,7 @@
   color: white;
   background-color: #f15b22;
   border: 0;
+  font-size: 20px;
   border-radius: 5px;
   padding: 20px 25px;
   margin-right: 224px;
@@ -70,21 +71,33 @@
   margin -top:394px;
 
 }
+.failure-title{
+  font-weight: 700;
+  font-size: 40px;
+}
 /* plan section style */
 .plan {
   text-align: center;
-  margin-left: 230px;
-  margin-right: 290px;
+  margin-left: 90px;
+  margin-right: 100px;
   margin-bottom: 124px;
+  width: 1141px;
+  height: 299.96px;
 }
 .plan-container {
   display: flex;
   max-width: 1141px;
   justify-content: space-between;
 }
-.plan-title {
+.plan-head{
   text-align: center;
   margin-bottom: 49.7px;
+  font-weight: 700;
+  font-size: 40px;
+}
+.plan-title{
+  font-weight: 700;
+  font-size: 30px;
 }
 /* bonus section style */
 .smart-watch{
