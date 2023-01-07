@@ -94,9 +94,9 @@
   background: #151414;
 }
 .footer-future {
-  margin-top: 142px;
-  margin-bottom: 117px;
-  margin-left: 255px;
+  margin-top: 129px;
+  margin-bottom:130px;
+  margin-left: 180px;
   width: 485px;
   height: 317px;
 }
@@ -119,8 +119,10 @@
   margin-bottom: 16px;
 }
 .footer-subscribe {
-  margin: 142.3px 0 230.7px 200px;
-  margin-right: 204px;
+  margin: 142.3px 0 230.7px 0;
+  margin-right:180px;
+  margin-left: 160px;
+
   width: 325px;
   height: 204px;
 }
@@ -137,7 +139,7 @@
   color: #F3F3F3;
   margin-bottom: 16px;
   margin-right: 204px;
-  padding: 21px 150px 22px 21px;
+  padding: 21px 158px 22px 21px;
 }
 .subscribe {
   font-weight: 600;
